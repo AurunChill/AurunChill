@@ -2,7 +2,7 @@
 
 <h2 align='left'>Обо мне</h2>
 
-Создавал около года телеграмм ботов на заказ с помощью: aiogram, sqlalchemy, sqladmin и FastAPI Oднако сейчас уже этим не занимаюсь. Репозитории проектов можно найти [тут](https://github.com/SyanOSee). На данный момент увлекаюсь написанием backend части на Python с технологией Django, DRF, FastAPI и Flask. В свободное время изучаю GameDev.
+Создавал около года телеграмм ботов на заказ с помощью: aiogram, sqlalchemy, sqladmin и FastAPI Oднако сейчас уже этим не занимаюсь. Репозитории проектов можно найти [тут](https://github.com/SyanOSee). На данный момент увлекаюсь написанием backend части на Python с технологией Django, DRF, FastAPI. В свободное время изучаю GameDev.
 
 <h2 align='left'>Технологический стек</h2>
 
