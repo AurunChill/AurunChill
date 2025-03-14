@@ -2,17 +2,17 @@
 
 <h2 align='left'>Обо мне</h2>
 
-Создавал около года телеграмм ботов на заказ с помощью: aiogram, sqlalchemy, sqladmin и FastAPI Oднако сейчас уже этим не занимаюсь. На данный момент увлекаюсь написанием backend части на Python с технологией Django, DRF, FastAPI. В свободное время изучаю GameDev.
+На фрилансе занимаюсь разработкой Telegram-ботов с использованием **aiogram**. Также имею несколько проектов на **Django** и **FastAPI**. Учусь на **3 курсе** по направлению "Программная инженерия". Увлекаюсь backend-разработкой на **Python**.
 
  <p>
    <a href="https://leetcode.com/u/AltoBoy/">
      <img src="https://img.shields.io/badge/leetcode-ffffff"></span>
    </a>
  </p>
+
 <h2 align='left'>Технологический стек</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <h2 align='left'>Связь</h2>
 <div style="text-align: left;">
@@ -23,15 +23,12 @@
 
 </div>
 
-
 <h2 align="left">Статистика:</h2>
 <div align="center">
  
 ![AurunChill's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurunchill\&theme=slateorange\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aurunchill&theme=slateorange)](https://git.io/streak-stats)
-
-
 
 <h2 align="left">Активность:</h2>
 
