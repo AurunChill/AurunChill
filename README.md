@@ -1,4 +1,8 @@
-![Chill Gif](./assets/super_gif.gif)
+<div align="center">
+  
+![Chill Gif](./assets/drone_crash.gif)
+
+</div>
 
 <div align="center">
 
