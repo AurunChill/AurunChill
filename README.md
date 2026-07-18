@@ -12,9 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF4FA3&center=true&vCenter=true&width=700&lines=Multicopter+Engineer+%F0%9F%9A%81;PX4+%7C+ROS2+%7C+Python+%7C+C%2B%2B;Building+autonomous+drones)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=aurunchill&style=for-the-badge&color=FF4FA3&label=PROFILE+VIEWS" alt="Profile views"/>
+<h3><code>PX4 | ROS2 | Python | C++</code></h3>
 
 </div>
 
@@ -78,15 +76,5 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aurunchill&custom_title=AurunChill's%20GitHub%20Activity%20Graph&bg_color=15121C&color=FF8FC7&line=FF4FA3&point=FFD6EC&area_color=FF4FA3&title_color=FF4FA3&area=true" alt="AurunChill's Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-Спасибо, что заглянули! 💗🚁
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2255C,50:FF4FA3,100:FFB3D9&height=120&section=footer" width="100%"/>
 
 </div>
